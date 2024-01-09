@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ad_chitietNhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_chebien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_chicucthuy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_giamgiu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_giayphep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_gietmo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_ho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_Hochannuoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_khaonghiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_sanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_sanpham_coso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_thuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_thuy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_tochucchungnhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_manage_vungchannuoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_mana_nhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad_sanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
